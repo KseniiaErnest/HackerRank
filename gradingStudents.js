@@ -41,3 +41,5 @@ if (grades[i] < 38 || number - grades[i] >= 3) {
 return finalGrades;
 
 }
+
+
