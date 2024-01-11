@@ -95,7 +95,7 @@ function diagonalDifference(arr) {
 
 
  /* The concept:
-  ndexing for diagonals in a matrix, and it's based on the properties of square matrices. A square matrix is a matrix that has the same number of rows and columns. In such matrices, there are two main diagonals:
+  indexing for diagonals in a matrix, and it's based on the properties of square matrices. A square matrix is a matrix that has the same number of rows and columns. In such matrices, there are two main diagonals:
   Primary Diagonal (Main Diagonal): This diagonal runs from the top-left corner to the bottom-right corner of the matrix. The elements on this diagonal have the same row and column indices. For example, in a 3x3 matrix, the primary diagonal consists of elements at indices (0, 0), (1, 1), and (2, 2).
 
 Secondary Diagonal: This diagonal runs from the top-right corner to the bottom-left corner of the matrix. The elements on this diagonal have row indices that increase as column indices decrease. For example, in a 3x3 matrix, the secondary diagonal consists of elements at indices (0, 2), (1, 1), and (2, 0).
